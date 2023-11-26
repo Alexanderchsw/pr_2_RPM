@@ -1,0 +1,153 @@
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.exe
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.deps.json
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.runtimeconfig.json
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.AssemblyReference.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.lref
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.g.resources
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfoInputs.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfo.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.CoreCompileInputs.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\refint\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.genruntimeconfig.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ref\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS СП\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.exe
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.deps.json
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.runtimeconfig.json
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.lref
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.g.resources
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfoInputs.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfo.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.CoreCompileInputs.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\refint\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.genruntimeconfig.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ref\ПР 2 РПМ.dll
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.exe
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.deps.json
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.runtimeconfig.json
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.AssemblyReference.cache
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.cache
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.lref
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.baml
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.baml
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.g.resources
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfoInputs.cache
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfo.cs
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.CoreCompileInputs.cache
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\refint\ПР 2 РПМ.dll
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.genruntimeconfig.cache
+C:\Users\alexw\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ref\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.exe
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.deps.json
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.runtimeconfig.json
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.lref
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.baml
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.g.resources
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfoInputs.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfo.cs
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.CoreCompileInputs.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\refint\ПР 2 РПМ.dll
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.genruntimeconfig.cache
+C:\Users\elozo\Downloads\ПР 2 РПМ (2)\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ref\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.exe
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.deps.json
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.runtimeconfig.json
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\bin\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.AssemblyReference.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ_MarkupCompile.lref
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window4.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\Window5.baml
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.g.resources
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfoInputs.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.AssemblyInfo.cs
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.csproj.CoreCompileInputs.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\refint\ПР 2 РПМ.dll
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.pdb
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ПР 2 РПМ.genruntimeconfig.cache
+C:\Users\alexw\OneDrive\Рабочий стол\Учёба\3 курс\VS РПМ\ПР 2 РПМ\ПР 2 РПМ\obj\Debug\net6.0-windows\ref\ПР 2 РПМ.dll
